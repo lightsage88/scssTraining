@@ -1,0 +1,28 @@
+//Variables
+@import './variables/fonts.scss';
+@import './variables/colors.scss';
+
+//**You don't import partials into the main document thing like this.
+////**Instead, you import it directly into the scss files that you import into this one instead. 
+//If you have a shopping cart and one of those single-serving cereal containers. You don't put all the 
+//grocieries in the cart and then dump milk all over the place. That would be retarded. Instead you open up
+// the single-serving cereal thing and put the milk directly in there.
+
+//Main import document...bad for partials
+////specific file for class -> do put the partial imported in there...
+
+
+//Mixins
+@import './mixins/bocho.scss';
+
+
+//Classes
+@import './classes/jokerStuff.scss';
+
+@import './input.scss'; 
+@import './body.scss';
+
+
+//Ids
+@import './ids/box.scss';
+@import './ids/boxUL.scss';

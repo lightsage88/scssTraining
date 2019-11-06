@@ -1,0 +1,5 @@
+@mixin bocho($property) {
+    transform: $property;
+    -webkit-transform: $property;
+    -ms-transform: $property
+}

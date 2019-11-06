@@ -1,0 +1,15 @@
+@import '../partials/jokerPartial';   
+@import '../partials/batmanPartial'; 
+
+ 
+.jokerStuff {
+    background: $jokerPartialColor;
+    h4 {
+        color: $jokerPartialColor;
+    }
+
+    h1 {
+        color: $batmanYellow;
+        background: white;
+    }
+} 

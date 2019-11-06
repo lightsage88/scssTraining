@@ -1,0 +1,7 @@
+#box {
+    @include bocho(rotate(30deg));
+    height: 10vw;
+    width: 10vw;
+    border:solid;
+    margin: auto;
+}

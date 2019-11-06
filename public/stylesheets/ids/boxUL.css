@@ -1,0 +1,26 @@
+#lad, #orb, #furry, #vaccuum, #mustache {
+  border: dotted 2px;
+  padding: 1vw;
+}
+
+#mustache {
+  border-color: red;
+}
+
+#vaccuum {
+  border-color: green;
+}
+
+#furry {
+  border-color: yellow;
+}
+
+#orb {
+  border-color: pink;
+}
+
+#lad {
+  border-color: limegreen;
+}
+
+/*# sourceMappingURL=boxUL.css.map */

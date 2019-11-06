@@ -1,0 +1,61 @@
+.jokerStuff {
+  background: purple;
+}
+.jokerStuff h4 {
+  color: purple;
+}
+.jokerStuff h1 {
+  color: gold;
+  background: white;
+}
+
+h1 {
+  color: red;
+  background: green;
+  font-family: Helvetica, sans-serif;
+  font-size: 10vw;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+body p {
+  border: #007aaf solid 2vw;
+}
+
+#box {
+  transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  height: 10vw;
+  width: 10vw;
+  border: solid;
+  margin: auto;
+}
+
+#lad, #orb, #furry, #vaccuum, #mustache {
+  border: dotted 2px;
+  padding: 1vw;
+}
+
+#mustache {
+  border-color: red;
+}
+
+#vaccuum {
+  border-color: green;
+}
+
+#furry {
+  border-color: yellow;
+}
+
+#orb {
+  border-color: pink;
+}
+
+#lad {
+  border-color: limegreen;
+}
+
+/*# sourceMappingURL=document.css.map */

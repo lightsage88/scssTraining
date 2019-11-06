@@ -1,0 +1,29 @@
+%box-chars {
+    border: dotted 2px;
+    padding:1vw;
+}
+
+#mustache {
+    @extend %box-chars;
+    border-color: red;
+}
+
+#vaccuum {
+    @extend %box-chars;
+    border-color: green;
+}
+
+#furry {
+    @extend %box-chars;
+    border-color: yellow; 
+}
+
+#orb {
+    @extend %box-chars;
+    border-color: pink;
+}
+
+#lad {
+    @extend %box-chars;
+    border-color: limegreen;
+}
